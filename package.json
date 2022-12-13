@@ -1,0 +1,19 @@
+{
+  "name": "@v-nmursapall/v-nmursapall",
+  "version": "1.0.0",
+  "description": "TestTask",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-nmursapall/v-nmursapall.git"
+  },
+  "author": "Namratha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-nmursapall/v-nmursapall/issues"
+  },
+  "homepage": "https://github.com/v-nmursapall/v-nmursapall#readme"
+}
