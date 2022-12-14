@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/v-nmursapall/v-nmursapall/issues"
   },
-  "homepage": "https://github.com/v-nmursapall/v-nmursapall#readme"
+  "homepage": "https://github.com/v-nmursapall/v-nmursapall#readme",
+  "publishConfig": {
+    "@v-nmursapall:registry": "https://npm.pkg.github.com"
+  }
 }
